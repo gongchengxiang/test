@@ -1,0 +1,15 @@
+{
+  "name": "React Tiger Transition - Basic",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "@material-ui/core": "^4.9.2",
+    "@material-ui/icons": "^4.9.1",
+    "react-tiger-transition": "latest",
+    "react-dom": "^16.9.0",
+    "react-transition-group": "^4.3.0"
+  }
+}
